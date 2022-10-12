@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">867301794187486</string>
+    <string name="facebook_client_token"> fec3aca79804f5d310ea8a92328cc647</string>
+<!--    <string name="app_name">amavinewapp</string>-->
+
+<!--    <string name="fb_login_protocol_scheme">fb867301794187486</string>-->
+</resources>
